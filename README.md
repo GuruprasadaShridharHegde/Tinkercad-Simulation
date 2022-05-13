@@ -1,4 +1,5 @@
 # Tinkercad-Simulation Projects💥
+![images](https://user-images.githubusercontent.com/85961223/168286074-ae5c57c1-14c1-4083-86d3-4c7f15a40c9a.png)
 
 ## Click on the below links to know about my circuit design.
 
@@ -34,6 +35,7 @@ Let’s explore these three core areas of Tinkercad.🤔
 **1) 3D Design**
 Tinkercad launched in 2011 to make 3D designs available to the general public. Designing in Tinkercad is a great way to learn the foundation of solid modeling. Solid modeling is the practice of building objects with primitive shapes. Users can drag and drop premade shapes into the workspace to create solids.
 By combining premade shapes, users can create their unique designs.
+![images](https://user-images.githubusercontent.com/85961223/168286289-15374712-9f35-4b0b-b4e2-e9da0fc8c78d.jpg)
 
 
 **2) Electronics**
