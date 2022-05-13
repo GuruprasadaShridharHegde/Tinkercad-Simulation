@@ -50,4 +50,30 @@ Drag and drop premade code blocks together to make custom shapes. Code blocks al
 
 ![image-2](https://user-images.githubusercontent.com/85961223/168285311-16bc6c98-e8b4-4a45-ab82-ac1faec57f26.png)
 
+### Arduino in Tinkercad
+For over 15 years, the Arduino ecosystem of microcontroller boards and code libraries have become an indispensable part of electronics education. But if you’ve ever worked with a student to connect an Arduino board to their computer, download Arduino’s IDE software, update the libraries, and configure the ports, you know that it can be a bumpy road.
+
+The Arduino simulation within Tinkercad simplifies the learning experience. It’s free, works on any computer with an Internet connection, and scales to any class size. Best of all, Tinkercad Circuits provides a bottomless supply of virtual components that students can use to build and simulate their projects.
+
+When they’re ready to physically prototype their projects, Tinkercad Circuits makes it easy to export their code as a native Arduino (.ino) file that they can upload to their board.
+
+#### Arduino Starters
+One of the fastest ways to explore the possibilities of Arduino in Tinkercad is to simply drag one of our sample Starter circuits into your workspace.
+We have nearly two dozen Arduino Starter circuits to choose from. Each example includes sample code that you can view, simulate, and modify.
+
+![arduservostarter](https://user-images.githubusercontent.com/85961223/168288034-62199edf-5423-4a7b-90a8-53e12e6f7227.gif)
+
+#### Coding Arduino in Tinkercad
+Tinkercad allows you to code your Arduino using two different approaches. Our Blocks code editor offers beginners a visual system of functions that they can drag and rearrange. All of our Arduino Starters, and most of our interactive Arduino lessons will include or refer to Blocks code.
+
+![ardublockcode169_700](https://user-images.githubusercontent.com/85961223/168288308-9296040d-4e57-451d-93f9-e2a679242963.png)
+
+#### Debugging Arduino Code
+One of the biggest challenges in learning to code is learning how to troubleshoot problems when the code isn’t working as planned. When a student’s code doesn’t work, Tinkercad’s error console will automatically pop into view. Similar to how errors are reported in the Arduino IDE, this error console will report and highlight the suspected issues that need fixing.
+
+![debugger2169](https://user-images.githubusercontent.com/85961223/168288495-d8a61ba9-0e6a-4f5a-9c7b-124866ed0448.png)
+
+Tinkercad’s Arduino debugger also includes a unique and useful code break feature. By selecting lines of code, you can define moments within your code where you’d like the simulation to pause. These pauses will happen automatically during simulation, allowing students to read values and troubleshoot problems. A button above their code (shown below) resumes the simulation or advances to the next break.
+
+![codebreaks169_700](https://user-images.githubusercontent.com/85961223/168288598-08222cc3-b95f-43de-8dd8-63331aa1bfb6.gif)
 
