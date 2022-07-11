@@ -32,6 +32,7 @@ Let’s explore these three core areas of Tinkercad.🤔
 
 ![image](https://user-images.githubusercontent.com/85961223/168283995-279481b5-b351-4f34-b2fe-6c138d0cc432.png)
 
+
 **1) 3D Design**
 Tinkercad launched in 2011 to make 3D designs available to the general public. Designing in Tinkercad is a great way to learn the foundation of solid modeling. Solid modeling is the practice of building objects with primitive shapes. Users can drag and drop premade shapes into the workspace to create solids.
 By combining premade shapes, users can create their unique designs.
